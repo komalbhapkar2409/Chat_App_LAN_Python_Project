@@ -1,0 +1,11 @@
+Steps for Installation :
+1.Install Python
+2.Open Github with Project gitbub link
+3.Download  Server_1.py , Client_1.py and requirements.txt from Project Repository
+4.Install requirement of the project
+	pip install -r requirements.txt
+5.First Run Server_1.py then Client_1.py in Two Terminals
+
+Good to go for Project Run.
+
+
