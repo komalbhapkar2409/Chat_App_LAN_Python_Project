@@ -1,11 +1,11 @@
-How to Run The Chat Applation :
+How to Run The Chat Application :
 1.Follow the Installation instructions (Installation_instructions.txt)
 2.Run Server_1.py & Client_1.py simultaneously in Two Terminals
 3.Send Meesage From Client terminal to Server
 4.Check Message received in Server terminal
 5.Send Message from Server terminal to Client
 6.Check Message received in Client terminal
-7.Repeat from Step 3 to Step 6 for continous chatting
-8.To Stop the chappting App , send 'bye' message from Server terminal
+7.Repeat from Step 3 to Step 6 for continuous chatting
+8.To Stop the chatting App , send 'bye' message from Server terminal
 
 Note : Chatting App does not stop if 'bye' message sent from Client terminal
