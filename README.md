@@ -17,7 +17,7 @@ Client_1.py
 requirements.txt
 Installation_instructions.txt
 Usage_guide.txt
-Chatting Application on Local Network Python (Hybrid) Final Project KB (1).ppt
+Chatting Application on Local Network Python (Hybrid) Final Project KB (1).pptx
 
 ------------------------------------------------------------------------------------
 
